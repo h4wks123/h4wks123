@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="100"/>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/ivanne-bayer-a23b30302">
@@ -9,27 +9,17 @@
 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="275"/>
-      </td>
-      <td>
-        <h3>: &nbsp;About Me :</h3>
-        <p>I am an aspiring web developer from the Philippines who enjoys playing games and spending time with my friends and family during my free time.</p>
-        <ul>
-          <li>🔭 I’m currently a fourth year computer science student</li>
-          <li>🌱 I’m learning more about backend development</li>
-          <li>⚡ Fun fact: I love exploring new technologies and frameworks</li>
-          <li>📫 How to reach me: <a href="mailto:youremail@example.com">yourname@example.com</a></li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+### : &nbsp;About Me :
+
+I am an aspiring web developer from the Philippines who enjoys playing games and spending time with my friends and family during my free time.
+
+- 🔭 I’m currently a fourth year computer science student
+- 🌱 
+- ⚡
+- 📫 
 
 ---
+
 
 ### 🛠 &nbsp;Languages and Tools :
 
