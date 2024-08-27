@@ -8,16 +8,16 @@
 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-### : &nbsp;About Me :
+### 🙋‍♂️ &nbsp;About Me :
 
 I am an aspiring web developer from the Philippines who enjoys playing games and spending time with my friends and family during my free time.
 
-🔭 - I’m currently a fourth-year computer science student.
-🧠 - I've recently started a hobby of consistently solving LeetCode problems.
-🎯 - My goal is to learn NLP and develop a chatbot before the year ends.
-💼 - I'm hoping to further develop my skill set through internships and open-source projects.
----
+- 🔭 I’m currently a fourth-year computer science student.
+- 🧠 I've recently started a hobby of consistently solving LeetCode problems.
+- 🎯 My goal is to learn NLP and develop a chatbot before the year ends.
+- 💼 I'm hoping to further develop my skill set through internships and open-source projects.
 
+---
 
 ### 🛠 &nbsp;Languages and Tools :
 
