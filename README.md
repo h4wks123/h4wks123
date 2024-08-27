@@ -13,7 +13,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
+        <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="275"/>
       </td>
       <td>
         <h3>: &nbsp;About Me :</h3>
