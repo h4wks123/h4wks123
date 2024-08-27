@@ -1,5 +1,5 @@
 <p align="center">
-![Working Penguin GIF](https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif)
+<img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="100"/>
 <p align="center">
   <a href="https://www.linkedin.com/in/ivanne-bayer-a23b30302">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
