@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="100"/>
+  <img src="https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7" width="100"/>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/ivanne-bayer-a23b30302">
