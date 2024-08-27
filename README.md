@@ -51,7 +51,9 @@ I am an aspiring web developer from the Philippines who enjoys playing games and
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp; 
 </p>
 
-### 🛠 &nbsp;Tech Stack I'm Currently Learning :
+---
+
+### 💡 &nbsp;Tech Stack I'm Currently Learning :
 
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp; 
@@ -59,9 +61,12 @@ I am an aspiring web developer from the Philippines who enjoys playing games and
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
 </p>
+
 ---
 
 ### 🔥 &nbsp; My Stats :
-![h4wks123's Stats](https://github-readme-stats.vercel.app/api?username=h4wks123&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![h4wks123's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=h4wks123&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
 ![h4wks123's Streak](https://github-readme-streak-stats.herokuapp.com/?user=h4wks123&theme=vue-dark&hide_border=true)
+
+![h4wks123's Stats](https://github-readme-stats.vercel.app/api?username=h4wks123&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![h4wks123's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=h4wks123&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
