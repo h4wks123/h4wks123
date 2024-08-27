@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7" width="100"/>
-</p>
+   <iframe src="https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7" width="100" height="100" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 <p align="center">
   <a href="https://www.linkedin.com/in/ivanne-bayer-a23b30302">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
