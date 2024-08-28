@@ -21,7 +21,7 @@
 
 I am an aspiring web developer from the Philippines who enjoys playing games and spending time with my friends and family during my free time.
 
-- 🔭 I’m currently a fourth-year computer science student.
+- 🔭 I’m currently in my fourth-year as a computer science student.
 - 🧠 I've recently started a hobby of consistently solving LeetCode problems.
 - 🎯 My goal is to learn NLP and develop a chatbot before the year ends.
 - 💼 I'm hoping to further develop my skill set through internships and open-source projects.
