@@ -23,7 +23,6 @@ I am an aspiring web developer from the Philippines who enjoys playing games and
 
 - 🔭 I’m currently in my fourth-year as a computer science student.
 - 🧠 I've recently started a hobby of consistently solving LeetCode problems.
-- 🎯 My goal is to learn NLP and develop a chatbot before the year ends.
 - 💼 I'm hoping to further develop my skill set through internships and open-source projects.
 - 📧 Connect me through <a href="mailto:ivannebayer@gmail.com">ivannebayer@gmail.com</a>
 
