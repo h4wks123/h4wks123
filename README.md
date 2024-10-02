@@ -57,17 +57,6 @@ I am an aspiring web developer from the Philippines who enjoys playing games and
 
 ---
 
-### 💡 &nbsp;Tech Stack I'm Currently Learning :
-
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
-</p>
-
----
-
 ### 🔥 &nbsp; My Stats :
 ![h4wks123's Streak](https://github-readme-streak-stats.herokuapp.com/?user=h4wks123&theme=vue-dark&hide_border=true)
 
