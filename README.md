@@ -48,3 +48,39 @@ I am an aspiring web developer from the Philippines who enjoys playing games and
 ![h4wks123's Stats](https://github-readme-stats.vercel.app/api?username=h4wks123&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![h4wks123's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=h4wks123&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+[linkedin]: https://www.linkedin.com/in/laplace-xd/
+[leetcode]: https://leetcode.com/laplace-/
+[JS]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[TS]: https://www.typescriptlang.org/
+[C]: https://www.cprogramming.com/
+[Java]: https://www.java.com/en/
+[Python]: https://www.python.org/
+[Golang]: https://go.dev/
+[PHP]: https://www.php.net/
+[HTML5]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[CSS3]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[React]: https://reactjs.org/
+[Next.js]: https://nextjs.org/
+[Express]: https://expressjs.com/
+[Node.js]: https://nodejs.org/en
+[Laravel]: https://laravel.com/
+[Firebase]: https://firebase.google.com/
+[PostgreSQL]: https://www.postgresql.org/
+[SQLite]: https://sqlite.org/index.html
+[MySQL]: https://www.mysql.com/
+[MongoDB]: https://www.mongodb.com/
+[Redis]: https://redis.io/
+[Vercel]: https://vercel.com/
+[Burp]: https://portswigger.net/burp
+[Frida]: https://frida.re/docs/android/
+[Postman]: https://www.postman.com/
+[VSCode]: https://code.visualstudio.com/
+[Neovim]: https://neovim.io/
+[Git]: https://git-scm.com/
+[GitHub]: https://github.com/
+[Figma]: https://www.figma.com/login
+[Xampp]: https://www.apachefriends.org/
+[Heroku]: https://dashboard.heroku.com/
+[Docker]: https://www.docker.com/
+[FastAPI]: https://fastapi.tiangolo.com/
