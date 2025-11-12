@@ -30,9 +30,7 @@ I am an aspiring web developer from the Philippines who enjoys playing games and
 
 ### 🛠 &nbsp;Tech Stack I Used :
 
----
-
-<table style="width:100%;">
+<table width="100%">
   <tr>
     <th align="left">🧠 Category</th>
     <th align="left">💻 Tech Stack</th>
