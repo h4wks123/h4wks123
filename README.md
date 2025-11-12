@@ -26,8 +26,6 @@ I am an aspiring web developer from the Philippines who enjoys playing games and
 - 💼 I'm hoping to further develop my skill set through internships and open-source projects.
 - 📧 Connect me through <a href="mailto:ivannebayer@gmail.com">ivannebayer@gmail.com</a>
 
----
-
 ### 🛠 &nbsp;Tech Stack I Used :
 
 | **Languages** | [<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript--_.svg?style=social&logo=javascript" />][JS] [<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript--_.svg?style=social&logo=typescript" />][TS] [<img alt="C" src="https://img.shields.io/badge/C--_.svg?style=social&logo=c" />][C] [<img alt="Dart" src="https://img.shields.io/badge/Dart--_.svg?style=social&logo=dart" />][Dart] [<img alt="Python" src="https://img.shields.io/badge/Python--_.svg?style=social&logo=python" />][Python] |
@@ -38,7 +36,6 @@ I am an aspiring web developer from the Philippines who enjoys playing games and
 | **Hosting & Deployment** | [<img alt="Render" src="https://img.shields.io/badge/Render--_.svg?style=social&logo=render" />][Render] [<img alt="Vercel" src="https://img.shields.io/badge/Vercel--_.svg?style=social&logo=vercel" />][Vercel] [<img alt="Docker" src="https://img.shields.io/badge/Docker--_.svg?style=social&logo=docker" />][Docker] |
 | **Tools**     | [<img alt="VSCode" src="https://img.shields.io/badge/VSCode--_.svg?style=social&logo=visualstudiocode" />][VSCode] [<img alt="Git" src="https://img.shields.io/badge/Git--_.svg?style=social&logo=git" />][Git] [<img alt="GitHub" src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github" />][GitHub] [<img alt="Figma" src="https://img.shields.io/badge/Figma--_.svg?style=social&logo=figma" />][Figma] [<img alt="XAMPP" src="https://img.shields.io/badge/Xampp--_.svg?style=social&logo=xampp" />][Xampp] |                                                                                            
 
----
 
 ### 🔥 &nbsp;My Stats :
 
