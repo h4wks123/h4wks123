@@ -30,7 +30,7 @@ I am an aspiring web developer from the Philippines who enjoys playing games and
 
 ### 🛠 &nbsp;Tech Stack I Used :
 
-<table width="100%">
+<table>
   <tr>
     <th align="left">🧠 Category</th>
     <th align="left">💻 Tech Stack</th>
@@ -107,7 +107,7 @@ I am an aspiring web developer from the Philippines who enjoys playing games and
 
 ---
 
-### 🔥 &nbsp; My Stats :
+### 🔥 &nbsp;My Stats :
 
 ![h4wks123's Streak](https://github-readme-streak-stats.herokuapp.com/?user=h4wks123&theme=vue-dark&hide_border=true)
 
