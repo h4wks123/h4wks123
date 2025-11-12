@@ -1,14 +1,11 @@
 <p align="center">
-<img src="https://media1.tenor.com/m/YtKFJs-kymwAAAAd/hawks-mha.gif" width="800" style="border-radius: 50%;"/>
+<img src="https://media1.tenor.com/m/YtKFJs-kymwAAAAd/hawks-mha.gif" width="600" style="border-radius: 50%;"/>
 <p align="center">
   <a href="https://www.linkedin.com/in/ivanne-bayer-a23b30302">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   <a href="https://leetcode.com/u/H4wks/">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge">
-  </a>
-  <a href="https://www.facebook.com/ivanne.bayer">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge">
   </a>
   <a href="mailto:ivannebayer@gmail.com">
     <img src="https://img.shields.io/badge/Email-lightgrey?style=for-the-badge&logo=gmail&logoColor=red" alt="Email Badge">
