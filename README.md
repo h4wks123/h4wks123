@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media1.tenor.com/m/YtKFJs-kymwAAAAd/hawks-mha.gif" width="600" style="border-radius: 50%;"/>
+<img src="https://media1.tenor.com/m/YtKFJs-kymwAAAAd/hawks-mha.gif" width="100%" height="300" style="border-radius: 50%;"/>
 <p align="center">
   <a href="https://www.linkedin.com/in/ivanne-bayer-a23b30302">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
