@@ -30,13 +30,14 @@ I am an aspiring web developer from the Philippines who enjoys playing games and
 
 ### 🛠 &nbsp;Tech Stack I Used :
 
+| **Category** | **Tech Stack** |
+|---------------|----------------|
 | **Languages** | [<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript--_.svg?style=social&logo=javascript" />][JS] [<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript--_.svg?style=social&logo=typescript" />][TS] [<img alt="C" src="https://img.shields.io/badge/C--_.svg?style=social&logo=c" />][C] [<img alt="Python" src="https://img.shields.io/badge/Python--_.svg?style=social&logo=python" />][Python] |
-| **Frontend** | [<img alt="HTML5" src="https://img.shields.io/badge/HTML5--_.svg?style=social&logo=html5" />][HTML5] [<img alt="CSS3" src="https://img.shields.io/badge/CSS3--_.svg?style=social&logo=css3" />][CSS3] [<img alt="React" src="https://img.shields.io/badge/React--_.svg?style=social&logo=react" />][React] [<img alt="Next.js" src="https://img.shields.io/badge/Next.js--_.svg?style=social&logo=nextdotjs" />][Next.js] |
-| **Backend** | [<img alt="Express" src="https://img.shields.io/badge/Express--_.svg?style=social&logo=express" />][Express] [<img alt="Node.js" src="https://img.shields.io/badge/Node.js--_.svg?style=social&logo=nodedotjs" />][Node.js]|
+| **Frontend** | [<img alt="HTML5" src="https://img.shields.io/badge/HTML5--_.svg?style=social&logo=html5" />][HTML5] [<img alt="CSS3" src="https://img.shields.io/badge/CSS3--_.svg?style=social&logo=css3" />][CSS3] [<img alt="React" src="https://img.shields.io/badge/React--_.svg?style=social&logo=react" />][React] [<img alt="Next.js" src="https://img.shields.io/badge/Next.js--_.svg?style=social&logo=nextdotjs" />][NextJS] |
+| **Backend** | [<img alt="Express" src="https://img.shields.io/badge/Express--_.svg?style=social&logo=express" />][Express] [<img alt="Node.js" src="https://img.shields.io/badge/Node.js--_.svg?style=social&logo=nodedotjs" />][NodeJS] |
 | **Database** | [<img alt="MySQL" src="https://img.shields.io/badge/MySQL--_.svg?style=social&logo=mysql" />][MySQL] [<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL--_.svg?style=social&logo=postgresql" />][PostgreSQL] |
-| **Hosting and Deployment** | [<img alt="Vercel" src="https://img.shields.io/badge/Vercel--_.svg?style=social&logo=vercel" />][Vercel] [<img alt="Docker" src="https://img.shields.io/badge/Docker--_.svg?style=social&logo=docker" />][Docker] |
-| **Tools** | [<img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode--_.svg?style=social&logo=visualstudiocode" />][VSCode] [<img alt="Git" src="https://img.shields.io/badge/Git--_.svg?style=social&logo=git" />][Git] [<img alt="GitHub" src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github" />][GitHub] [<img alt="Figma" src="https://img.shields.io/badge/Figma--_.svg?style=social&logo=figma" />][Figma] [<img alt="Xampp" src="https://img.shields.io/badge/Xampp--_.svg?style=social&logo=xampp" />][Xampp] |
-
+| **Hosting & Deployment** | [<img alt="Vercel" src="https://img.shields.io/badge/Vercel--_.svg?style=social&logo=vercel" />][Vercel] [<img alt="Docker" src="https://img.shields.io/badge/Docker--_.svg?style=social&logo=docker" />][Docker] |
+| **Tools** | [<img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode--_.svg?style=social&logo=visualstudiocode" />][VSCode] [<img alt="Git" src="https://img.shields.io/badge/Git--_.svg?style=social&logo=git" />][Git] [<img alt="GitHub" src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github" />][GitHub] [<img alt="Figma" src="https://img.shields.io/badge/Figma--_.svg?style=social&logo=figma" />][Figma] [<img alt="XAMPP" src="https://img.shields.io/badge/XAMPP--_.svg?style=social&logo=xampp" />][Xampp] |
 ---
 
 ### 🔥 &nbsp;My Stats :
