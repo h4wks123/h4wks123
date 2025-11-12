@@ -26,7 +26,7 @@ I am an aspiring web developer from the Philippines who enjoys playing games and
 - 💼 I'm hoping to further develop my skill set through internships and open-source projects.
 - 📧 Connect me through <a href="mailto:ivannebayer@gmail.com">ivannebayer@gmail.com</a>
 
-### 🛠 &nbsp;Tech Stack I Used :
+### 🛠 &nbsp;Technologies :
 
 | **Languages** | [<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript--_.svg?style=social&logo=javascript" />][JS] [<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript--_.svg?style=social&logo=typescript" />][TS] [<img alt="C" src="https://img.shields.io/badge/C--_.svg?style=social&logo=c" />][C] [<img alt="Dart" src="https://img.shields.io/badge/Dart--_.svg?style=social&logo=dart" />][Dart] [<img alt="Python" src="https://img.shields.io/badge/Python--_.svg?style=social&logo=python" />][Python] |
 | :------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
