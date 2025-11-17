@@ -10,7 +10,7 @@
   <a href="mailto:ivannebayer@gmail.com">
     <img src="https://img.shields.io/badge/Email-lightgrey?style=for-the-badge&logo=gmail&logoColor=red" alt="Email Badge">
   </a>
-  <a href="./bayer_resume.pdf" target="_blank" rel="noopener">
+  <a href="https://raw.githubusercontent.com/h4wks123/h4wks123/main/bayer_resume.pdf" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logoColor=white" alt="Resume Badge">
   </a>
 </p>
