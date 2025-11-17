@@ -10,6 +10,9 @@
   <a href="mailto:ivannebayer@gmail.com">
     <img src="https://img.shields.io/badge/Email-lightgrey?style=for-the-badge&logo=gmail&logoColor=red" alt="Email Badge">
   </a>
+  <a href="" download="bayer_resume">
+    <img src="https://img.shields.io/badge/resume-gray" alt="bayer_resume">
+  </a>
 </p>
 
 <h1 align="center">Hey there Traveler!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
