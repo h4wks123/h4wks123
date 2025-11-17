@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Email-lightgrey?style=for-the-badge&logo=gmail&logoColor=red" alt="Email Badge">
   </a>
   <a href="./bayer_resume.pdf" download="bayer_resume">
-    <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume Badge">
+    <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logoColor=white" alt="Resume Badge">
   </a>
 </p>
 
