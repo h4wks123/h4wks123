@@ -21,9 +21,9 @@
 
 I am an aspiring web developer from the Philippines who enjoys playing games and spending time with my friends and family during my free time.
 
-- 🔭 I’m currently in my fourth-year as a computer science student.
-- 🧠 I've recently started a hobby of consistently solving LeetCode problems.
-- 💼 I'm hoping to further develop my skill set through internships and open-source projects.
+- 🔭 I’m a computer science fresh grad.
+- 🧠 I dabbled into solving LeetCode problems and now transitioned into doing linkedin dailies (tango, queens, zip).
+- 💼 I'm hoping to further develop my skill set through work experience and open-source projects.
 - 📧 Connect me through <a href="mailto:ivannebayer@gmail.com">ivannebayer@gmail.com</a>
 
 ### 🛠 &nbsp;Technologies :
