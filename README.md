@@ -67,3 +67,4 @@ I am an aspiring web developer from the Philippines who enjoys playing games and
 [Drizzle ORM]: https://orm.drizzle.team/docs/overview
 [Turso]: https://docs.turso.tech/introduction
 [Render]: https://render.com/docs
+[Axum]: https://docs.rs/axum/latest/axum/
