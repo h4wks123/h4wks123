@@ -39,7 +39,7 @@ I am an aspiring web developer from the Philippines who enjoys playing games and
 | **Tools**                | [<img alt="VSCode" src="https://img.shields.io/badge/VSCode--_.svg?style=social&logo=visualstudiocode" />][VSCode] [<img alt="Git" src="https://img.shields.io/badge/Git--_.svg?style=social&logo=git" />][Git] [<img alt="GitHub" src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github" />][GitHub] [<img alt="Figma" src="https://img.shields.io/badge/Figma--_.svg?style=social&logo=figma" />][Figma] [<img alt="XAMPP" src="https://img.shields.io/badge/Xampp--_.svg?style=social&logo=xampp" />][Xampp]   |                                                                        
 
 <p align="center">
-<img src="https://media1.tenor.com/m/QFXumi39hQIAAAAd/chainsaw-man-yoru.gif" width="50%" height="187.5" style="border-radius: 50%;"/>
+<img src="https://media1.tenor.com/m/QFXumi39hQIAAAAd/chainsaw-man-yoru.gif" width="50%" height="250" style="border-radius: 50%;"/>
 
 [JS]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [TS]: https://www.typescriptlang.org/
